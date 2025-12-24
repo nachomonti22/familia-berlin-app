@@ -1,0 +1,15 @@
+{
+  "short_name": "Fam Berlin",
+  "name": "Familia Berlin",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=2070",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#312e81",
+  "background_color": "#ffffff"
+}
